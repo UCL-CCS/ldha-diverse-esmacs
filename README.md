@@ -8,7 +8,7 @@ What follows is a brief description of the contents.
 
 # Naming conventions 
 
-During the preparation of the paper two naming conventions have been used - internally ligands were numbered sequentially (giving l1-l22) but to agree with the experimental publication[1] we numbered the ligands LDHA12, LDHA14-LDHA34.
+During the preparation of the paper two naming conventions have been used - internally ligands were numbered sequentially (giving l1-l22) but to agree with the experimental publication [1] we numbered the ligands LDHA12, LDHA14-LDHA34.
 
 [1] R. A. Ward, *et al.*, J. Med. Chem., 2012, 55, 3285–3306, DOI:[10.1021/jm201734r](https://doi.org/10.1021/jm201734r)
 
