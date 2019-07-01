@@ -1,0 +1,12 @@
+#input file for GB and PB calculation without nmode analysis
+&general
+startframe=20, endframe=400, interval=12,
+verbose=2, keep_files=2,
+strip_mask=':WAT,Cl*,CIO,Cs+,IB,K*,Li+,MG*,Na+,Rb+,CS,RB,NA,F,ZN',
+/
+&gb
+igb=5, saltcon=0.0,
+/
+&pb
+istrng=0.0, fillratio=4.0, inp=1, radiopt=0
+/
