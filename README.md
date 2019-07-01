@@ -1,10 +1,10 @@
 This repository contains data and simulation input from the paper:
 
-"Application of ESMACS binding free energy protocols to diverse datasets:", David W. Wright, Shunzhou Wan, Christophe Meyer, Herman van Vlijmen, Christophe Meyer, Gary Tresadern, and Peter V. Coveney
+"Application of the ESMACS binding free energy protocol to a highly varied ligand dataset: lactate dehydogenase A", David W. Wright, Fouad Husseini, Shunzhou Wan, Christophe Meyer, Herman van Vlijmen, Gary Tresadern, and Peter V. Coveney
 
 Preprint DOI: [](https://)
 
-What follows is a brief description of the contents
+What follows is a brief description of the contents.
 
 # Naming conventions 
 
