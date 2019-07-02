@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/194699221.svg)](https://zenodo.org/badge/latestdoi/194699221)
+
 This repository contains data and simulation input from the paper:
 
 "Application of the ESMACS binding free energy protocol to a highly varied ligand dataset: lactate dehydogenase A", David W. Wright, Fouad Husseini, Shunzhou Wan, Christophe Meyer, Herman van Vlijmen, Gary Tresadern, and Peter V. Coveney
